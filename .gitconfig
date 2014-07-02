@@ -4,6 +4,9 @@
  
 [core]
  editor = vim
+
+[branch]
+ autosetuprebase = always
  
 [color]
  ui = true
